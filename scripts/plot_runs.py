@@ -16,5 +16,9 @@ for e in ev:
     ax[0].plot(o.time, o.time.dt.strftime("%Y-%m-%dT%H:%M:%SZ").map(orig), "--", label="original")
     ax[0].legend(); ax[0].set_ylabel("SM 5 cm")
     ax[1].bar(w.time, w["P_CALC"], width=0.04); ax[1].set_ylabel("P_CALC")
+    ax[1].set_ylim(0, 1)
+    if w["P_CALC"].fillna(0).sum() == 0:
+        ax[1].text(0.5, 0.5, "no rain (P_CALC = 0)",
+                   transform=ax[1].transAxes, ha="center", va="center")
     fig.suptitle(f'{e["attack_type"]} ({e["attack_run_id"]})')
     fig.savefig(f'{out}/{e["attack_run_id"]}.png', dpi=150)
