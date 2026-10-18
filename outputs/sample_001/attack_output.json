@@ -1,0 +1,1950 @@
+{
+  "config_hash": "sha256:74ffcb445f0e7c5a7b7ba060a1fb32ec16f8ab92a53cc705925d960209278c52",
+  "tier": 2,
+  "attacks": [
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-04-21T09:00:00Z",
+      "original_value": 0.041,
+      "attacked_value": 0.0414,
+      "attack_type": "slow_drift",
+      "attack_magnitude": 0.0004,
+      "seed": 101
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-04-21T10:00:00Z",
+      "original_value": 0.039,
+      "attacked_value": 0.0397,
+      "attack_type": "slow_drift",
+      "attack_magnitude": 0.0007,
+      "seed": 101
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-04-21T11:00:00Z",
+      "original_value": 0.037,
+      "attacked_value": 0.0381,
+      "attack_type": "slow_drift",
+      "attack_magnitude": 0.0011,
+      "seed": 101
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-04-21T12:00:00Z",
+      "original_value": 0.036,
+      "attacked_value": 0.0374,
+      "attack_type": "slow_drift",
+      "attack_magnitude": 0.0014,
+      "seed": 101
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-04-21T13:00:00Z",
+      "original_value": 0.036,
+      "attacked_value": 0.0378,
+      "attack_type": "slow_drift",
+      "attack_magnitude": 0.0018,
+      "seed": 101
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-04-21T14:00:00Z",
+      "original_value": 0.037,
+      "attacked_value": 0.0391,
+      "attack_type": "slow_drift",
+      "attack_magnitude": 0.0021,
+      "seed": 101
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-04-21T15:00:00Z",
+      "original_value": 0.037,
+      "attacked_value": 0.0395,
+      "attack_type": "slow_drift",
+      "attack_magnitude": 0.0025,
+      "seed": 101
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-04-21T16:00:00Z",
+      "original_value": 0.04,
+      "attacked_value": 0.0429,
+      "attack_type": "slow_drift",
+      "attack_magnitude": 0.0029,
+      "seed": 101
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-04-21T17:00:00Z",
+      "original_value": 0.042,
+      "attacked_value": 0.0452,
+      "attack_type": "slow_drift",
+      "attack_magnitude": 0.0032,
+      "seed": 101
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-04-21T18:00:00Z",
+      "original_value": 0.048,
+      "attacked_value": 0.0516,
+      "attack_type": "slow_drift",
+      "attack_magnitude": 0.0036,
+      "seed": 101
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-04-21T19:00:00Z",
+      "original_value": 0.057,
+      "attacked_value": 0.0609,
+      "attack_type": "slow_drift",
+      "attack_magnitude": 0.0039,
+      "seed": 101
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-04-21T20:00:00Z",
+      "original_value": 0.063,
+      "attacked_value": 0.0673,
+      "attack_type": "slow_drift",
+      "attack_magnitude": 0.0043,
+      "seed": 101
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-04-21T21:00:00Z",
+      "original_value": 0.062,
+      "attacked_value": 0.0666,
+      "attack_type": "slow_drift",
+      "attack_magnitude": 0.0046,
+      "seed": 101
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-04-21T22:00:00Z",
+      "original_value": 0.061,
+      "attacked_value": 0.066,
+      "attack_type": "slow_drift",
+      "attack_magnitude": 0.005,
+      "seed": 101
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-04-21T23:00:00Z",
+      "original_value": 0.06,
+      "attacked_value": 0.0654,
+      "attack_type": "slow_drift",
+      "attack_magnitude": 0.0054,
+      "seed": 101
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-04-22T00:00:00Z",
+      "original_value": 0.057,
+      "attacked_value": 0.0627,
+      "attack_type": "slow_drift",
+      "attack_magnitude": 0.0057,
+      "seed": 101
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-04-22T01:00:00Z",
+      "original_value": 0.056,
+      "attacked_value": 0.0621,
+      "attack_type": "slow_drift",
+      "attack_magnitude": 0.0061,
+      "seed": 101
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-04-22T02:00:00Z",
+      "original_value": 0.053,
+      "attacked_value": 0.0594,
+      "attack_type": "slow_drift",
+      "attack_magnitude": 0.0064,
+      "seed": 101
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-04-22T03:00:00Z",
+      "original_value": 0.044,
+      "attacked_value": 0.0508,
+      "attack_type": "slow_drift",
+      "attack_magnitude": 0.0068,
+      "seed": 101
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-04-22T04:00:00Z",
+      "original_value": 0.043,
+      "attacked_value": 0.0501,
+      "attack_type": "slow_drift",
+      "attack_magnitude": 0.0071,
+      "seed": 101
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-04-22T05:00:00Z",
+      "original_value": 0.041,
+      "attacked_value": 0.0485,
+      "attack_type": "slow_drift",
+      "attack_magnitude": 0.0075,
+      "seed": 101
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-04-22T06:00:00Z",
+      "original_value": 0.042,
+      "attacked_value": 0.0499,
+      "attack_type": "slow_drift",
+      "attack_magnitude": 0.0079,
+      "seed": 101
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-04-22T07:00:00Z",
+      "original_value": 0.042,
+      "attacked_value": 0.0502,
+      "attack_type": "slow_drift",
+      "attack_magnitude": 0.0082,
+      "seed": 101
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-04-22T08:00:00Z",
+      "original_value": 0.038,
+      "attacked_value": 0.0466,
+      "attack_type": "slow_drift",
+      "attack_magnitude": 0.0086,
+      "seed": 101
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-04-22T09:00:00Z",
+      "original_value": 0.038,
+      "attacked_value": 0.0469,
+      "attack_type": "slow_drift",
+      "attack_magnitude": 0.0089,
+      "seed": 101
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-04-22T10:00:00Z",
+      "original_value": 0.04,
+      "attacked_value": 0.0493,
+      "attack_type": "slow_drift",
+      "attack_magnitude": 0.0093,
+      "seed": 101
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-04-22T11:00:00Z",
+      "original_value": 0.038,
+      "attacked_value": 0.0476,
+      "attack_type": "slow_drift",
+      "attack_magnitude": 0.0096,
+      "seed": 101
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-04-22T12:00:00Z",
+      "original_value": 0.039,
+      "attacked_value": 0.049,
+      "attack_type": "slow_drift",
+      "attack_magnitude": 0.01,
+      "seed": 101
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-04-22T13:00:00Z",
+      "original_value": 0.035,
+      "attacked_value": 0.0454,
+      "attack_type": "slow_drift",
+      "attack_magnitude": 0.0104,
+      "seed": 101
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-04-22T14:00:00Z",
+      "original_value": 0.035,
+      "attacked_value": 0.0457,
+      "attack_type": "slow_drift",
+      "attack_magnitude": 0.0107,
+      "seed": 101
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-04-22T15:00:00Z",
+      "original_value": 0.035,
+      "attacked_value": 0.0461,
+      "attack_type": "slow_drift",
+      "attack_magnitude": 0.0111,
+      "seed": 101
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-04-22T16:00:00Z",
+      "original_value": 0.04,
+      "attacked_value": 0.0514,
+      "attack_type": "slow_drift",
+      "attack_magnitude": 0.0114,
+      "seed": 101
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-04-22T17:00:00Z",
+      "original_value": 0.043,
+      "attacked_value": 0.0548,
+      "attack_type": "slow_drift",
+      "attack_magnitude": 0.0118,
+      "seed": 101
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-04-22T18:00:00Z",
+      "original_value": 0.049,
+      "attacked_value": 0.0611,
+      "attack_type": "slow_drift",
+      "attack_magnitude": 0.0121,
+      "seed": 101
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-04-22T19:00:00Z",
+      "original_value": 0.06,
+      "attacked_value": 0.0725,
+      "attack_type": "slow_drift",
+      "attack_magnitude": 0.0125,
+      "seed": 101
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-04-22T20:00:00Z",
+      "original_value": 0.063,
+      "attacked_value": 0.0759,
+      "attack_type": "slow_drift",
+      "attack_magnitude": 0.0129,
+      "seed": 101
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-04-22T21:00:00Z",
+      "original_value": 0.063,
+      "attacked_value": 0.0762,
+      "attack_type": "slow_drift",
+      "attack_magnitude": 0.0132,
+      "seed": 101
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-04-22T22:00:00Z",
+      "original_value": 0.06,
+      "attacked_value": 0.0736,
+      "attack_type": "slow_drift",
+      "attack_magnitude": 0.0136,
+      "seed": 101
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-04-22T23:00:00Z",
+      "original_value": 0.059,
+      "attacked_value": 0.0729,
+      "attack_type": "slow_drift",
+      "attack_magnitude": 0.0139,
+      "seed": 101
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-04-23T00:00:00Z",
+      "original_value": 0.056,
+      "attacked_value": 0.0703,
+      "attack_type": "slow_drift",
+      "attack_magnitude": 0.0143,
+      "seed": 101
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-04-23T01:00:00Z",
+      "original_value": 0.055,
+      "attacked_value": 0.0696,
+      "attack_type": "slow_drift",
+      "attack_magnitude": 0.0146,
+      "seed": 101
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-04-23T02:00:00Z",
+      "original_value": 0.052,
+      "attacked_value": 0.067,
+      "attack_type": "slow_drift",
+      "attack_magnitude": 0.015,
+      "seed": 101
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-04-23T03:00:00Z",
+      "original_value": 0.044,
+      "attacked_value": 0.0594,
+      "attack_type": "slow_drift",
+      "attack_magnitude": 0.0154,
+      "seed": 101
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-04-23T04:00:00Z",
+      "original_value": 0.043,
+      "attacked_value": 0.0587,
+      "attack_type": "slow_drift",
+      "attack_magnitude": 0.0157,
+      "seed": 101
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-04-23T05:00:00Z",
+      "original_value": 0.041,
+      "attacked_value": 0.0571,
+      "attack_type": "slow_drift",
+      "attack_magnitude": 0.0161,
+      "seed": 101
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-04-23T06:00:00Z",
+      "original_value": 0.039,
+      "attacked_value": 0.0554,
+      "attack_type": "slow_drift",
+      "attack_magnitude": 0.0164,
+      "seed": 101
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-04-23T07:00:00Z",
+      "original_value": 0.038,
+      "attacked_value": 0.0548,
+      "attack_type": "slow_drift",
+      "attack_magnitude": 0.0168,
+      "seed": 101
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-04-23T08:00:00Z",
+      "original_value": 0.038,
+      "attacked_value": 0.0551,
+      "attack_type": "slow_drift",
+      "attack_magnitude": 0.0171,
+      "seed": 101
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-04-23T09:00:00Z",
+      "original_value": 0.038,
+      "attacked_value": 0.0555,
+      "attack_type": "slow_drift",
+      "attack_magnitude": 0.0175,
+      "seed": 101
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-04-23T10:00:00Z",
+      "original_value": 0.037,
+      "attacked_value": 0.0549,
+      "attack_type": "slow_drift",
+      "attack_magnitude": 0.0179,
+      "seed": 101
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-04-23T11:00:00Z",
+      "original_value": 0.037,
+      "attacked_value": 0.0552,
+      "attack_type": "slow_drift",
+      "attack_magnitude": 0.0182,
+      "seed": 101
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-04-23T12:00:00Z",
+      "original_value": 0.037,
+      "attacked_value": 0.0556,
+      "attack_type": "slow_drift",
+      "attack_magnitude": 0.0186,
+      "seed": 101
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-04-23T13:00:00Z",
+      "original_value": 0.035,
+      "attacked_value": 0.0539,
+      "attack_type": "slow_drift",
+      "attack_magnitude": 0.0189,
+      "seed": 101
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-04-23T14:00:00Z",
+      "original_value": 0.034,
+      "attacked_value": 0.0533,
+      "attack_type": "slow_drift",
+      "attack_magnitude": 0.0193,
+      "seed": 101
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-04-23T15:00:00Z",
+      "original_value": 0.035,
+      "attacked_value": 0.0546,
+      "attack_type": "slow_drift",
+      "attack_magnitude": 0.0196,
+      "seed": 101
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-04-23T16:00:00Z",
+      "original_value": 0.039,
+      "attacked_value": 0.059,
+      "attack_type": "slow_drift",
+      "attack_magnitude": 0.02,
+      "seed": 101
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-04-23T17:00:00Z",
+      "original_value": 0.042,
+      "attacked_value": 0.0624,
+      "attack_type": "slow_drift",
+      "attack_magnitude": 0.0204,
+      "seed": 101
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-04-23T18:00:00Z",
+      "original_value": 0.047,
+      "attacked_value": 0.0677,
+      "attack_type": "slow_drift",
+      "attack_magnitude": 0.0207,
+      "seed": 101
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-04-23T19:00:00Z",
+      "original_value": 0.058,
+      "attacked_value": 0.0791,
+      "attack_type": "slow_drift",
+      "attack_magnitude": 0.0211,
+      "seed": 101
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-04-23T20:00:00Z",
+      "original_value": 0.06,
+      "attacked_value": 0.0814,
+      "attack_type": "slow_drift",
+      "attack_magnitude": 0.0214,
+      "seed": 101
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-04-23T21:00:00Z",
+      "original_value": 0.059,
+      "attacked_value": 0.0808,
+      "attack_type": "slow_drift",
+      "attack_magnitude": 0.0218,
+      "seed": 101
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-04-23T22:00:00Z",
+      "original_value": 0.059,
+      "attacked_value": 0.0811,
+      "attack_type": "slow_drift",
+      "attack_magnitude": 0.0221,
+      "seed": 101
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-04-23T23:00:00Z",
+      "original_value": 0.056,
+      "attacked_value": 0.0785,
+      "attack_type": "slow_drift",
+      "attack_magnitude": 0.0225,
+      "seed": 101
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-04-24T00:00:00Z",
+      "original_value": 0.054,
+      "attacked_value": 0.0769,
+      "attack_type": "slow_drift",
+      "attack_magnitude": 0.0229,
+      "seed": 101
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-04-24T01:00:00Z",
+      "original_value": 0.054,
+      "attacked_value": 0.0772,
+      "attack_type": "slow_drift",
+      "attack_magnitude": 0.0232,
+      "seed": 101
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-04-24T02:00:00Z",
+      "original_value": 0.048,
+      "attacked_value": 0.0716,
+      "attack_type": "slow_drift",
+      "attack_magnitude": 0.0236,
+      "seed": 101
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-04-24T03:00:00Z",
+      "original_value": 0.043,
+      "attacked_value": 0.0669,
+      "attack_type": "slow_drift",
+      "attack_magnitude": 0.0239,
+      "seed": 101
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-04-24T04:00:00Z",
+      "original_value": 0.042,
+      "attacked_value": 0.0663,
+      "attack_type": "slow_drift",
+      "attack_magnitude": 0.0243,
+      "seed": 101
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-04-24T05:00:00Z",
+      "original_value": 0.04,
+      "attacked_value": 0.0646,
+      "attack_type": "slow_drift",
+      "attack_magnitude": 0.0246,
+      "seed": 101
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-04-24T06:00:00Z",
+      "original_value": 0.038,
+      "attacked_value": 0.063,
+      "attack_type": "slow_drift",
+      "attack_magnitude": 0.025,
+      "seed": 101
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-04-24T07:00:00Z",
+      "original_value": 0.037,
+      "attacked_value": 0.0624,
+      "attack_type": "slow_drift",
+      "attack_magnitude": 0.0254,
+      "seed": 101
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-04-24T08:00:00Z",
+      "original_value": 0.037,
+      "attacked_value": 0.0627,
+      "attack_type": "slow_drift",
+      "attack_magnitude": 0.0257,
+      "seed": 101
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-04-24T09:00:00Z",
+      "original_value": 0.034,
+      "attacked_value": 0.0601,
+      "attack_type": "slow_drift",
+      "attack_magnitude": 0.0261,
+      "seed": 101
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-04-24T10:00:00Z",
+      "original_value": 0.035,
+      "attacked_value": 0.0614,
+      "attack_type": "slow_drift",
+      "attack_magnitude": 0.0264,
+      "seed": 101
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-04-24T11:00:00Z",
+      "original_value": 0.035,
+      "attacked_value": 0.0618,
+      "attack_type": "slow_drift",
+      "attack_magnitude": 0.0268,
+      "seed": 101
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-04-24T12:00:00Z",
+      "original_value": 0.033,
+      "attacked_value": 0.0601,
+      "attack_type": "slow_drift",
+      "attack_magnitude": 0.0271,
+      "seed": 101
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-04-24T13:00:00Z",
+      "original_value": 0.033,
+      "attacked_value": 0.0605,
+      "attack_type": "slow_drift",
+      "attack_magnitude": 0.0275,
+      "seed": 101
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-04-24T14:00:00Z",
+      "original_value": 0.033,
+      "attacked_value": 0.0609,
+      "attack_type": "slow_drift",
+      "attack_magnitude": 0.0279,
+      "seed": 101
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-04-24T15:00:00Z",
+      "original_value": 0.034,
+      "attacked_value": 0.0622,
+      "attack_type": "slow_drift",
+      "attack_magnitude": 0.0282,
+      "seed": 101
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-04-24T16:00:00Z",
+      "original_value": 0.036,
+      "attacked_value": 0.0646,
+      "attack_type": "slow_drift",
+      "attack_magnitude": 0.0286,
+      "seed": 101
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-04-24T17:00:00Z",
+      "original_value": 0.038,
+      "attacked_value": 0.0669,
+      "attack_type": "slow_drift",
+      "attack_magnitude": 0.0289,
+      "seed": 101
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-04-24T18:00:00Z",
+      "original_value": 0.041,
+      "attacked_value": 0.0703,
+      "attack_type": "slow_drift",
+      "attack_magnitude": 0.0293,
+      "seed": 101
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-04-24T19:00:00Z",
+      "original_value": 0.042,
+      "attacked_value": 0.0716,
+      "attack_type": "slow_drift",
+      "attack_magnitude": 0.0296,
+      "seed": 101
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-04-24T20:00:00Z",
+      "original_value": 0.046,
+      "attacked_value": 0.076,
+      "attack_type": "slow_drift",
+      "attack_magnitude": 0.03,
+      "seed": 101
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-04-24T21:00:00Z",
+      "original_value": 0.046,
+      "attacked_value": 0.0764,
+      "attack_type": "slow_drift",
+      "attack_magnitude": 0.0304,
+      "seed": 101
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-04-24T22:00:00Z",
+      "original_value": 0.047,
+      "attacked_value": 0.0777,
+      "attack_type": "slow_drift",
+      "attack_magnitude": 0.0307,
+      "seed": 101
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-04-24T23:00:00Z",
+      "original_value": 0.045,
+      "attacked_value": 0.0761,
+      "attack_type": "slow_drift",
+      "attack_magnitude": 0.0311,
+      "seed": 101
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-04-25T00:00:00Z",
+      "original_value": 0.042,
+      "attacked_value": 0.0734,
+      "attack_type": "slow_drift",
+      "attack_magnitude": 0.0314,
+      "seed": 101
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-04-25T01:00:00Z",
+      "original_value": 0.042,
+      "attacked_value": 0.0738,
+      "attack_type": "slow_drift",
+      "attack_magnitude": 0.0318,
+      "seed": 101
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-04-25T02:00:00Z",
+      "original_value": 0.041,
+      "attacked_value": 0.0731,
+      "attack_type": "slow_drift",
+      "attack_magnitude": 0.0321,
+      "seed": 101
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-04-25T03:00:00Z",
+      "original_value": 0.04,
+      "attacked_value": 0.0725,
+      "attack_type": "slow_drift",
+      "attack_magnitude": 0.0325,
+      "seed": 101
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-04-25T04:00:00Z",
+      "original_value": 0.038,
+      "attacked_value": 0.0709,
+      "attack_type": "slow_drift",
+      "attack_magnitude": 0.0329,
+      "seed": 101
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-04-25T05:00:00Z",
+      "original_value": 0.037,
+      "attacked_value": 0.0702,
+      "attack_type": "slow_drift",
+      "attack_magnitude": 0.0332,
+      "seed": 101
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-04-25T06:00:00Z",
+      "original_value": 0.037,
+      "attacked_value": 0.0706,
+      "attack_type": "slow_drift",
+      "attack_magnitude": 0.0336,
+      "seed": 101
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-04-25T07:00:00Z",
+      "original_value": 0.035,
+      "attacked_value": 0.0689,
+      "attack_type": "slow_drift",
+      "attack_magnitude": 0.0339,
+      "seed": 101
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-04-25T08:00:00Z",
+      "original_value": 0.034,
+      "attacked_value": 0.0683,
+      "attack_type": "slow_drift",
+      "attack_magnitude": 0.0343,
+      "seed": 101
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-04-25T09:00:00Z",
+      "original_value": 0.035,
+      "attacked_value": 0.0696,
+      "attack_type": "slow_drift",
+      "attack_magnitude": 0.0346,
+      "seed": 101
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-04-25T10:00:00Z",
+      "original_value": 0.036,
+      "attacked_value": 0.071,
+      "attack_type": "slow_drift",
+      "attack_magnitude": 0.035,
+      "seed": 101
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-04-25T11:00:00Z",
+      "original_value": 0.034,
+      "attacked_value": 0.0694,
+      "attack_type": "slow_drift",
+      "attack_magnitude": 0.0354,
+      "seed": 101
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-04-25T12:00:00Z",
+      "original_value": 0.034,
+      "attacked_value": 0.0697,
+      "attack_type": "slow_drift",
+      "attack_magnitude": 0.0357,
+      "seed": 101
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-04-25T13:00:00Z",
+      "original_value": 0.034,
+      "attacked_value": 0.0701,
+      "attack_type": "slow_drift",
+      "attack_magnitude": 0.0361,
+      "seed": 101
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-04-25T14:00:00Z",
+      "original_value": 0.033,
+      "attacked_value": 0.0694,
+      "attack_type": "slow_drift",
+      "attack_magnitude": 0.0364,
+      "seed": 101
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-04-25T15:00:00Z",
+      "original_value": 0.035,
+      "attacked_value": 0.0718,
+      "attack_type": "slow_drift",
+      "attack_magnitude": 0.0368,
+      "seed": 101
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-04-25T16:00:00Z",
+      "original_value": 0.036,
+      "attacked_value": 0.0731,
+      "attack_type": "slow_drift",
+      "attack_magnitude": 0.0371,
+      "seed": 101
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-04-25T17:00:00Z",
+      "original_value": 0.039,
+      "attacked_value": 0.0765,
+      "attack_type": "slow_drift",
+      "attack_magnitude": 0.0375,
+      "seed": 101
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-04-25T18:00:00Z",
+      "original_value": 0.044,
+      "attacked_value": 0.0819,
+      "attack_type": "slow_drift",
+      "attack_magnitude": 0.0379,
+      "seed": 101
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-04-25T19:00:00Z",
+      "original_value": 0.049,
+      "attacked_value": 0.0872,
+      "attack_type": "slow_drift",
+      "attack_magnitude": 0.0382,
+      "seed": 101
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-04-25T20:00:00Z",
+      "original_value": 0.058,
+      "attacked_value": 0.0966,
+      "attack_type": "slow_drift",
+      "attack_magnitude": 0.0386,
+      "seed": 101
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-04-25T21:00:00Z",
+      "original_value": 0.057,
+      "attacked_value": 0.0959,
+      "attack_type": "slow_drift",
+      "attack_magnitude": 0.0389,
+      "seed": 101
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-04-25T22:00:00Z",
+      "original_value": 0.056,
+      "attacked_value": 0.0953,
+      "attack_type": "slow_drift",
+      "attack_magnitude": 0.0393,
+      "seed": 101
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-04-25T23:00:00Z",
+      "original_value": 0.052,
+      "attacked_value": 0.0916,
+      "attack_type": "slow_drift",
+      "attack_magnitude": 0.0396,
+      "seed": 101
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-04-26T00:00:00Z",
+      "original_value": 0.051,
+      "attacked_value": 0.091,
+      "attack_type": "slow_drift",
+      "attack_magnitude": 0.04,
+      "seed": 101
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-04-26T01:00:00Z",
+      "original_value": 0.043,
+      "attacked_value": 0.0834,
+      "attack_type": "slow_drift",
+      "attack_magnitude": 0.0404,
+      "seed": 101
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-04-26T02:00:00Z",
+      "original_value": 0.04,
+      "attacked_value": 0.0807,
+      "attack_type": "slow_drift",
+      "attack_magnitude": 0.0407,
+      "seed": 101
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-04-26T03:00:00Z",
+      "original_value": 0.04,
+      "attacked_value": 0.0811,
+      "attack_type": "slow_drift",
+      "attack_magnitude": 0.0411,
+      "seed": 101
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-04-26T04:00:00Z",
+      "original_value": 0.036,
+      "attacked_value": 0.0774,
+      "attack_type": "slow_drift",
+      "attack_magnitude": 0.0414,
+      "seed": 101
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-04-26T05:00:00Z",
+      "original_value": 0.035,
+      "attacked_value": 0.0768,
+      "attack_type": "slow_drift",
+      "attack_magnitude": 0.0418,
+      "seed": 101
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-04-26T06:00:00Z",
+      "original_value": 0.036,
+      "attacked_value": 0.0781,
+      "attack_type": "slow_drift",
+      "attack_magnitude": 0.0421,
+      "seed": 101
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-04-26T07:00:00Z",
+      "original_value": 0.036,
+      "attacked_value": 0.0785,
+      "attack_type": "slow_drift",
+      "attack_magnitude": 0.0425,
+      "seed": 101
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-04-26T08:00:00Z",
+      "original_value": 0.036,
+      "attacked_value": 0.0789,
+      "attack_type": "slow_drift",
+      "attack_magnitude": 0.0429,
+      "seed": 101
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-04-26T09:00:00Z",
+      "original_value": 0.033,
+      "attacked_value": 0.0762,
+      "attack_type": "slow_drift",
+      "attack_magnitude": 0.0432,
+      "seed": 101
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-04-26T10:00:00Z",
+      "original_value": 0.033,
+      "attacked_value": 0.0766,
+      "attack_type": "slow_drift",
+      "attack_magnitude": 0.0436,
+      "seed": 101
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-04-26T11:00:00Z",
+      "original_value": 0.034,
+      "attacked_value": 0.0779,
+      "attack_type": "slow_drift",
+      "attack_magnitude": 0.0439,
+      "seed": 101
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-04-26T12:00:00Z",
+      "original_value": 0.032,
+      "attacked_value": 0.0763,
+      "attack_type": "slow_drift",
+      "attack_magnitude": 0.0443,
+      "seed": 101
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-04-26T13:00:00Z",
+      "original_value": 0.032,
+      "attacked_value": 0.0766,
+      "attack_type": "slow_drift",
+      "attack_magnitude": 0.0446,
+      "seed": 101
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-04-26T14:00:00Z",
+      "original_value": 0.032,
+      "attacked_value": 0.077,
+      "attack_type": "slow_drift",
+      "attack_magnitude": 0.045,
+      "seed": 101
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-04-26T15:00:00Z",
+      "original_value": 0.032,
+      "attacked_value": 0.0774,
+      "attack_type": "slow_drift",
+      "attack_magnitude": 0.0454,
+      "seed": 101
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-04-26T16:00:00Z",
+      "original_value": 0.035,
+      "attacked_value": 0.0807,
+      "attack_type": "slow_drift",
+      "attack_magnitude": 0.0457,
+      "seed": 101
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-04-26T17:00:00Z",
+      "original_value": 0.038,
+      "attacked_value": 0.0841,
+      "attack_type": "slow_drift",
+      "attack_magnitude": 0.0461,
+      "seed": 101
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-04-26T18:00:00Z",
+      "original_value": 0.043,
+      "attacked_value": 0.0894,
+      "attack_type": "slow_drift",
+      "attack_magnitude": 0.0464,
+      "seed": 101
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-04-26T19:00:00Z",
+      "original_value": 0.048,
+      "attacked_value": 0.0948,
+      "attack_type": "slow_drift",
+      "attack_magnitude": 0.0468,
+      "seed": 101
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-04-26T20:00:00Z",
+      "original_value": 0.057,
+      "attacked_value": 0.1041,
+      "attack_type": "slow_drift",
+      "attack_magnitude": 0.0471,
+      "seed": 101
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-04-26T21:00:00Z",
+      "original_value": 0.057,
+      "attacked_value": 0.1045,
+      "attack_type": "slow_drift",
+      "attack_magnitude": 0.0475,
+      "seed": 101
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-04-26T22:00:00Z",
+      "original_value": 0.055,
+      "attacked_value": 0.1029,
+      "attack_type": "slow_drift",
+      "attack_magnitude": 0.0479,
+      "seed": 101
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-04-26T23:00:00Z",
+      "original_value": 0.053,
+      "attacked_value": 0.1012,
+      "attack_type": "slow_drift",
+      "attack_magnitude": 0.0482,
+      "seed": 101
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-04-27T00:00:00Z",
+      "original_value": 0.051,
+      "attacked_value": 0.0996,
+      "attack_type": "slow_drift",
+      "attack_magnitude": 0.0486,
+      "seed": 101
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-04-27T01:00:00Z",
+      "original_value": 0.043,
+      "attacked_value": 0.0919,
+      "attack_type": "slow_drift",
+      "attack_magnitude": 0.0489,
+      "seed": 101
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-04-27T02:00:00Z",
+      "original_value": 0.04,
+      "attacked_value": 0.0893,
+      "attack_type": "slow_drift",
+      "attack_magnitude": 0.0493,
+      "seed": 101
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-04-27T03:00:00Z",
+      "original_value": 0.038,
+      "attacked_value": 0.0876,
+      "attack_type": "slow_drift",
+      "attack_magnitude": 0.0496,
+      "seed": 101
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-04-27T04:00:00Z",
+      "original_value": 0.036,
+      "attacked_value": 0.086,
+      "attack_type": "slow_drift",
+      "attack_magnitude": 0.05,
+      "seed": 101
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-04-27T05:00:00Z",
+      "original_value": 0.035,
+      "attacked_value": 0.0854,
+      "attack_type": "slow_drift",
+      "attack_magnitude": 0.0504,
+      "seed": 101
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-04-27T06:00:00Z",
+      "original_value": 0.035,
+      "attacked_value": 0.0857,
+      "attack_type": "slow_drift",
+      "attack_magnitude": 0.0507,
+      "seed": 101
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-04-27T07:00:00Z",
+      "original_value": 0.035,
+      "attacked_value": 0.0861,
+      "attack_type": "slow_drift",
+      "attack_magnitude": 0.0511,
+      "seed": 101
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-04-27T08:00:00Z",
+      "original_value": 0.035,
+      "attacked_value": 0.0864,
+      "attack_type": "slow_drift",
+      "attack_magnitude": 0.0514,
+      "seed": 101
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-04-27T09:00:00Z",
+      "original_value": 0.036,
+      "attacked_value": 0.0878,
+      "attack_type": "slow_drift",
+      "attack_magnitude": 0.0518,
+      "seed": 101
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-04-27T10:00:00Z",
+      "original_value": 0.034,
+      "attacked_value": 0.0839,
+      "attack_type": "slow_drift",
+      "attack_magnitude": 0.0499,
+      "seed": 101
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-04-27T11:00:00Z",
+      "original_value": 0.034,
+      "attacked_value": 0.0819,
+      "attack_type": "slow_drift",
+      "attack_magnitude": 0.0479,
+      "seed": 101
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-04-27T12:00:00Z",
+      "original_value": 0.032,
+      "attacked_value": 0.078,
+      "attack_type": "slow_drift",
+      "attack_magnitude": 0.046,
+      "seed": 101
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-04-27T13:00:00Z",
+      "original_value": 0.031,
+      "attacked_value": 0.075,
+      "attack_type": "slow_drift",
+      "attack_magnitude": 0.044,
+      "seed": 101
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-04-27T14:00:00Z",
+      "original_value": 0.029,
+      "attacked_value": 0.0709,
+      "attack_type": "slow_drift",
+      "attack_magnitude": 0.0419,
+      "seed": 101
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-04-27T15:00:00Z",
+      "original_value": 0.032,
+      "attacked_value": 0.0719,
+      "attack_type": "slow_drift",
+      "attack_magnitude": 0.0399,
+      "seed": 101
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-04-27T16:00:00Z",
+      "original_value": 0.034,
+      "attacked_value": 0.0718,
+      "attack_type": "slow_drift",
+      "attack_magnitude": 0.0378,
+      "seed": 101
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-04-27T17:00:00Z",
+      "original_value": 0.037,
+      "attacked_value": 0.0726,
+      "attack_type": "slow_drift",
+      "attack_magnitude": 0.0356,
+      "seed": 101
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-04-27T18:00:00Z",
+      "original_value": 0.042,
+      "attacked_value": 0.0755,
+      "attack_type": "slow_drift",
+      "attack_magnitude": 0.0335,
+      "seed": 101
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-04-27T19:00:00Z",
+      "original_value": 0.047,
+      "attacked_value": 0.0783,
+      "attack_type": "slow_drift",
+      "attack_magnitude": 0.0313,
+      "seed": 101
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-04-27T20:00:00Z",
+      "original_value": 0.05,
+      "attacked_value": 0.0791,
+      "attack_type": "slow_drift",
+      "attack_magnitude": 0.0291,
+      "seed": 101
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-04-27T21:00:00Z",
+      "original_value": 0.054,
+      "attacked_value": 0.0808,
+      "attack_type": "slow_drift",
+      "attack_magnitude": 0.0268,
+      "seed": 101
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-04-27T22:00:00Z",
+      "original_value": 0.052,
+      "attacked_value": 0.0765,
+      "attack_type": "slow_drift",
+      "attack_magnitude": 0.0245,
+      "seed": 101
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-04-27T23:00:00Z",
+      "original_value": 0.052,
+      "attacked_value": 0.0742,
+      "attack_type": "slow_drift",
+      "attack_magnitude": 0.0222,
+      "seed": 101
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-04-28T00:00:00Z",
+      "original_value": 0.045,
+      "attacked_value": 0.0649,
+      "attack_type": "slow_drift",
+      "attack_magnitude": 0.0199,
+      "seed": 101
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-04-28T01:00:00Z",
+      "original_value": 0.041,
+      "attacked_value": 0.0585,
+      "attack_type": "slow_drift",
+      "attack_magnitude": 0.0175,
+      "seed": 101
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-04-28T02:00:00Z",
+      "original_value": 0.04,
+      "attacked_value": 0.0551,
+      "attack_type": "slow_drift",
+      "attack_magnitude": 0.0151,
+      "seed": 101
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-04-28T03:00:00Z",
+      "original_value": 0.036,
+      "attacked_value": 0.0487,
+      "attack_type": "slow_drift",
+      "attack_magnitude": 0.0127,
+      "seed": 101
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-04-28T04:00:00Z",
+      "original_value": 0.037,
+      "attacked_value": 0.0472,
+      "attack_type": "slow_drift",
+      "attack_magnitude": 0.0102,
+      "seed": 101
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-04-28T05:00:00Z",
+      "original_value": 0.035,
+      "attacked_value": 0.0427,
+      "attack_type": "slow_drift",
+      "attack_magnitude": 0.0077,
+      "seed": 101
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-04-28T06:00:00Z",
+      "original_value": 0.035,
+      "attacked_value": 0.0402,
+      "attack_type": "slow_drift",
+      "attack_magnitude": 0.0052,
+      "seed": 101
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-04-28T07:00:00Z",
+      "original_value": 0.034,
+      "attacked_value": 0.0366,
+      "attack_type": "slow_drift",
+      "attack_magnitude": 0.0026,
+      "seed": 101
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-04-28T08:00:00Z",
+      "original_value": 0.034,
+      "attacked_value": 0.034,
+      "attack_type": "slow_drift",
+      "attack_magnitude": 0.0,
+      "seed": 101
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-06-11T09:00:00Z",
+      "original_value": 0.026,
+      "attacked_value": 0.026,
+      "attack_type": "mimicry",
+      "attack_magnitude": 0.0,
+      "seed": 102
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-06-11T10:00:00Z",
+      "original_value": 0.023,
+      "attacked_value": 0.1334,
+      "attack_type": "mimicry",
+      "attack_magnitude": 0.1104,
+      "seed": 102
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-06-11T11:00:00Z",
+      "original_value": 0.022,
+      "attacked_value": 0.1731,
+      "attack_type": "mimicry",
+      "attack_magnitude": 0.1511,
+      "seed": 102
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-06-11T12:00:00Z",
+      "original_value": 0.022,
+      "attacked_value": 0.188,
+      "attack_type": "mimicry",
+      "attack_magnitude": 0.166,
+      "seed": 102
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-06-11T13:00:00Z",
+      "original_value": 0.023,
+      "attacked_value": 0.1732,
+      "attack_type": "mimicry",
+      "attack_magnitude": 0.1502,
+      "seed": 102
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-06-11T14:00:00Z",
+      "original_value": 0.022,
+      "attacked_value": 0.1579,
+      "attack_type": "mimicry",
+      "attack_magnitude": 0.1359,
+      "seed": 102
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-06-11T15:00:00Z",
+      "original_value": 0.024,
+      "attacked_value": 0.147,
+      "attack_type": "mimicry",
+      "attack_magnitude": 0.123,
+      "seed": 102
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-06-11T16:00:00Z",
+      "original_value": 0.025,
+      "attacked_value": 0.1363,
+      "attack_type": "mimicry",
+      "attack_magnitude": 0.1113,
+      "seed": 102
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-06-11T17:00:00Z",
+      "original_value": 0.03,
+      "attacked_value": 0.1307,
+      "attack_type": "mimicry",
+      "attack_magnitude": 0.1007,
+      "seed": 102
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-06-11T18:00:00Z",
+      "original_value": 0.036,
+      "attacked_value": 0.1271,
+      "attack_type": "mimicry",
+      "attack_magnitude": 0.0911,
+      "seed": 102
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-06-11T19:00:00Z",
+      "original_value": 0.045,
+      "attacked_value": 0.1274,
+      "attack_type": "mimicry",
+      "attack_magnitude": 0.0824,
+      "seed": 102
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-06-11T20:00:00Z",
+      "original_value": 0.048,
+      "attacked_value": 0.1226,
+      "attack_type": "mimicry",
+      "attack_magnitude": 0.0746,
+      "seed": 102
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-06-11T21:00:00Z",
+      "original_value": 0.048,
+      "attacked_value": 0.1155,
+      "attack_type": "mimicry",
+      "attack_magnitude": 0.0675,
+      "seed": 102
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-06-11T22:00:00Z",
+      "original_value": 0.046,
+      "attacked_value": 0.1071,
+      "attack_type": "mimicry",
+      "attack_magnitude": 0.0611,
+      "seed": 102
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-06-11T23:00:00Z",
+      "original_value": 0.043,
+      "attacked_value": 0.0983,
+      "attack_type": "mimicry",
+      "attack_magnitude": 0.0553,
+      "seed": 102
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-06-12T00:00:00Z",
+      "original_value": 0.043,
+      "attacked_value": 0.093,
+      "attack_type": "mimicry",
+      "attack_magnitude": 0.05,
+      "seed": 102
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-06-12T01:00:00Z",
+      "original_value": 0.043,
+      "attacked_value": 0.0882,
+      "attack_type": "mimicry",
+      "attack_magnitude": 0.0452,
+      "seed": 102
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-06-12T02:00:00Z",
+      "original_value": 0.038,
+      "attacked_value": 0.0789,
+      "attack_type": "mimicry",
+      "attack_magnitude": 0.0409,
+      "seed": 102
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-06-12T03:00:00Z",
+      "original_value": 0.033,
+      "attacked_value": 0.07,
+      "attack_type": "mimicry",
+      "attack_magnitude": 0.037,
+      "seed": 102
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-06-12T04:00:00Z",
+      "original_value": 0.029,
+      "attacked_value": 0.0625,
+      "attack_type": "mimicry",
+      "attack_magnitude": 0.0335,
+      "seed": 102
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-06-12T05:00:00Z",
+      "original_value": 0.029,
+      "attacked_value": 0.0593,
+      "attack_type": "mimicry",
+      "attack_magnitude": 0.0303,
+      "seed": 102
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-06-12T06:00:00Z",
+      "original_value": 0.026,
+      "attacked_value": 0.0534,
+      "attack_type": "mimicry",
+      "attack_magnitude": 0.0274,
+      "seed": 102
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-06-12T07:00:00Z",
+      "original_value": 0.026,
+      "attacked_value": 0.0508,
+      "attack_type": "mimicry",
+      "attack_magnitude": 0.0248,
+      "seed": 102
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-06-12T08:00:00Z",
+      "original_value": 0.025,
+      "attacked_value": 0.0475,
+      "attack_type": "mimicry",
+      "attack_magnitude": 0.0225,
+      "seed": 102
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-06-12T09:00:00Z",
+      "original_value": 0.023,
+      "attacked_value": 0.0433,
+      "attack_type": "mimicry",
+      "attack_magnitude": 0.0203,
+      "seed": 102
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-06-12T10:00:00Z",
+      "original_value": 0.024,
+      "attacked_value": 0.0424,
+      "attack_type": "mimicry",
+      "attack_magnitude": 0.0184,
+      "seed": 102
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-06-12T11:00:00Z",
+      "original_value": 0.023,
+      "attacked_value": 0.0396,
+      "attack_type": "mimicry",
+      "attack_magnitude": 0.0166,
+      "seed": 102
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-06-12T12:00:00Z",
+      "original_value": 0.022,
+      "attacked_value": 0.0371,
+      "attack_type": "mimicry",
+      "attack_magnitude": 0.0151,
+      "seed": 102
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-06-12T13:00:00Z",
+      "original_value": 0.022,
+      "attacked_value": 0.0356,
+      "attack_type": "mimicry",
+      "attack_magnitude": 0.0136,
+      "seed": 102
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-06-12T14:00:00Z",
+      "original_value": 0.022,
+      "attacked_value": 0.0343,
+      "attack_type": "mimicry",
+      "attack_magnitude": 0.0123,
+      "seed": 102
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-06-12T15:00:00Z",
+      "original_value": 0.023,
+      "attacked_value": 0.0342,
+      "attack_type": "mimicry",
+      "attack_magnitude": 0.0112,
+      "seed": 102
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-06-12T16:00:00Z",
+      "original_value": 0.025,
+      "attacked_value": 0.0351,
+      "attack_type": "mimicry",
+      "attack_magnitude": 0.0101,
+      "seed": 102
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-06-12T17:00:00Z",
+      "original_value": 0.029,
+      "attacked_value": 0.0381,
+      "attack_type": "mimicry",
+      "attack_magnitude": 0.0091,
+      "seed": 102
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-06-12T18:00:00Z",
+      "original_value": 0.035,
+      "attacked_value": 0.0433,
+      "attack_type": "mimicry",
+      "attack_magnitude": 0.0083,
+      "seed": 102
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-06-12T19:00:00Z",
+      "original_value": 0.041,
+      "attacked_value": 0.0485,
+      "attack_type": "mimicry",
+      "attack_magnitude": 0.0075,
+      "seed": 102
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-06-12T20:00:00Z",
+      "original_value": 0.047,
+      "attacked_value": 0.0538,
+      "attack_type": "mimicry",
+      "attack_magnitude": 0.0068,
+      "seed": 102
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-06-12T21:00:00Z",
+      "original_value": 0.049,
+      "attacked_value": 0.0551,
+      "attack_type": "mimicry",
+      "attack_magnitude": 0.0061,
+      "seed": 102
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-06-12T22:00:00Z",
+      "original_value": 0.046,
+      "attacked_value": 0.0515,
+      "attack_type": "mimicry",
+      "attack_magnitude": 0.0055,
+      "seed": 102
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-06-12T23:00:00Z",
+      "original_value": 0.043,
+      "attacked_value": 0.048,
+      "attack_type": "mimicry",
+      "attack_magnitude": 0.005,
+      "seed": 102
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-06-13T00:00:00Z",
+      "original_value": 0.042,
+      "attacked_value": 0.0465,
+      "attack_type": "mimicry",
+      "attack_magnitude": 0.0045,
+      "seed": 102
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-06-13T01:00:00Z",
+      "original_value": 0.041,
+      "attacked_value": 0.0451,
+      "attack_type": "mimicry",
+      "attack_magnitude": 0.0041,
+      "seed": 102
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-06-13T02:00:00Z",
+      "original_value": 0.039,
+      "attacked_value": 0.0427,
+      "attack_type": "mimicry",
+      "attack_magnitude": 0.0037,
+      "seed": 102
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-06-13T03:00:00Z",
+      "original_value": 0.032,
+      "attacked_value": 0.0354,
+      "attack_type": "mimicry",
+      "attack_magnitude": 0.0034,
+      "seed": 102
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-06-13T04:00:00Z",
+      "original_value": 0.028,
+      "attacked_value": 0.031,
+      "attack_type": "mimicry",
+      "attack_magnitude": 0.003,
+      "seed": 102
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-06-13T05:00:00Z",
+      "original_value": 0.028,
+      "attacked_value": 0.0308,
+      "attack_type": "mimicry",
+      "attack_magnitude": 0.0028,
+      "seed": 102
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-06-13T06:00:00Z",
+      "original_value": 0.028,
+      "attacked_value": 0.0305,
+      "attack_type": "mimicry",
+      "attack_magnitude": 0.0025,
+      "seed": 102
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-06-13T07:00:00Z",
+      "original_value": 0.027,
+      "attacked_value": 0.0293,
+      "attack_type": "mimicry",
+      "attack_magnitude": 0.0023,
+      "seed": 102
+    },
+    {
+      "station_id": "AZ_Tucson_11_W",
+      "timestamp": "2024-06-13T08:00:00Z",
+      "original_value": 0.026,
+      "attacked_value": 0.028,
+      "attack_type": "mimicry",
+      "attack_magnitude": 0.002,
+      "seed": 102
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+seed: 42
+tier: 2                  # à confirmer avec le data contract
+data_path: data/uscrn_clean.parquet
+output_dir: outputs/sample_001
+
+# Les attaques ne sont générées que dans cette période et sur ces stations
+period:
+  start: "2024-01-01"
+  end: "2025-01-01"      # exclu
+  stations: ["AZ_Tucson_11_W"]
+
+runs:
+  - attack_type: slow_drift
+    run_id: drift_001
+    station: "AZ_Tucson_11_W"
+    duration_h: 168
+    magnitude: 0.06
+    sign: 1
+    power: 1.0
+    release_h: 24
+    seed: 101
+  - attack_type: mimicry
+    run_id: mimic_001
+    station: "AZ_Tucson_11_W"
+    duration_h: 48
+    amplitude: auto
+    rise_h: 3
+    tau_h: 10
+    seed: 102
